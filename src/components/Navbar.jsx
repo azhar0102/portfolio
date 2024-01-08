@@ -35,7 +35,7 @@ function Navbar() {
         <li className="py-6 text-4xl">Contact</li>
       </ul>
       {/* social icons */}
-      <div className="invisible  lg:visible fixed flex flex-col left-0 top-[35%]">
+      <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
           <li className="flex w-[160px] h-[60px] items-center justify-between ml-[-100px] hover:ml-[0px] duration-300 bg-blue-700">
             <a className="flex justify-between items-center w-full" href="">
