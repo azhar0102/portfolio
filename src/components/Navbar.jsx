@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <div className="fixed flex justify-between items-center w-full h-[80px] px-4 bg-[#0a192f] text-gray-300">
       <div>
-        <h1>Logo</h1>
+        <h1 className="font-logo text-3xl text-pink-600">AS</h1>
       </div>
       <ul className="hidden md:flex">
         <li>Home</li>
