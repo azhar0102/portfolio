@@ -13,7 +13,7 @@ export const data = [
     id: 2,
     name: "Shopping Cart",
     image: shopping,
-    github: "",
-    live: "",
+    github: "https://github.com/azhar0102/Shopping-cart",
+    live: "https://shopping-store-front.netlify.app/",
   },
 ];
