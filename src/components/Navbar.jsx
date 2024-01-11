@@ -87,7 +87,10 @@ function Navbar() {
             </a>
           </li>
           <li className="flex w-[160px] h-[60px] items-center justify-between ml-[-100px] hover:ml-[0px] duration-300 bg-black">
-            <a className="flex justify-between items-center w-full" href="">
+            <a
+              className="flex justify-between items-center w-full"
+              href="https://github.com/azhar0102"
+            >
               Github <FaGithub size={30} />
             </a>
           </li>
