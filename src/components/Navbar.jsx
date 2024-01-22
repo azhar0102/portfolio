@@ -82,7 +82,11 @@ function Navbar() {
       <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
           <li className="flex w-[160px] h-[60px] items-center justify-between ml-[-100px] hover:ml-[0px] duration-300 bg-blue-700">
-            <a className="flex justify-between items-center w-full" href="">
+            <a
+              className="flex justify-between items-center w-full"
+              href="https://www.linkedin.com/in/azhar-shaik-567613103/"
+              target="_blank"
+            >
               Linkedin <FaLinkedin size={30} />
             </a>
           </li>
@@ -96,7 +100,11 @@ function Navbar() {
             </a>
           </li>
           <li className="flex w-[160px] h-[60px] items-center justify-between ml-[-100px] hover:ml-[0px] duration-300 bg-red-600">
-            <a className="flex justify-between items-center w-full" href="">
+            <a
+              className="flex justify-between items-center w-full"
+              href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ifkv=ASKXGp3_OsySoE5NiajqgoYIUq26BDNj8ekUTKJCJTvBqErpsmzsgdUNHu4GD-JhsoTof1poOFs6&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1710322044%3A1705926832037657&theme=glif"
+              target="_blank"
+            >
               Gmail <SiGmail size={30} />
             </a>
           </li>
