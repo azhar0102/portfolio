@@ -13,7 +13,7 @@ export const data = [
     id: 2,
     name: "Amazon clone",
     image: shopping,
-    github: "https://github.com/azhar0102/Shopping-cart",
-    live: "https://shopping-store-front.netlify.app/",
+    github: "https://github.com/azhar0102/Amazon-Clone",
+    live: "https://amazon-clone-pi-rust.vercel.app/",
   },
 ];
